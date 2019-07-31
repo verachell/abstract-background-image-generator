@@ -21,7 +21,7 @@ Execute the downloaded script ` ./createimages.fish `
 You will be prompted for the number of images desired, their x dimensions, y dimensions, and a base filename. The images will then be created as JPEGs.
 
 ## Examples
-These are a few examples of the images generated. 
+These are a few examples of the images generated; 3 squares, 3 tall rectangles and 3 horizontal rectangles are shown.
 
 ![square 1](examples/square_1.jpg) ![square 2](examples/square_2.jpg) ![square 3](examples/square_3.jpg)
 
