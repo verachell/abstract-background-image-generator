@@ -23,5 +23,5 @@ You will be prompted for the number of images desired, their x dimensions, y dim
 ## Examples
 These are examples of the images generated.
 
-https://raw.githubusercontent.com/verachell/abstract-background-image-generator/master/examples/tall_1.jpg 
+(https://raw.githubusercontent.com/verachell/abstract-background-image-generator/master/examples/tall_1.jpg)
 
