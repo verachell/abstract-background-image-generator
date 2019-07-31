@@ -3,8 +3,6 @@ Generates abstract images of user-defined dimensions. Installation instructions 
 
 This is a shell script that works on Linux systems.
 
-Still working on the README, to be updated soon.
-
 ## Installation
 This shell script uses the fish shell v 3.0.2. The script will not work with bash or any other shell, or with previous versions of fish (the latter is due to the usage of the 'random' function). The fish shell is easy to install and works out of the box. 
 - For Debian-based Linux systems such as Ubuntu, you can install fish via the synaptic package manager. 
@@ -21,7 +19,7 @@ Execute the downloaded script ` ./createimages.fish `
 You will be prompted for the number of images desired, their x dimensions, y dimensions, and a base filename. The images will then be created as JPEGs.
 
 ## Examples
-These are a few examples of the images generated:
+These are a few examples of the images generated
 
 ### 3 square images
 ![square 1](examples/square_1.jpg) ![square 2](examples/square_2.jpg) ![square 3](examples/square_3.jpg)
