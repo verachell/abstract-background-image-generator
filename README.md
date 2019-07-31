@@ -1,5 +1,5 @@
 # abstract-background-image-generator
-Generates abstract images of user-defined dimensions. Installation instructions and example images shown.
+Generates a series of abstract images of user-defined dimensions. Installation instructions and example images shown.
 
 This is a shell script for Linux systems.
 
