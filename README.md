@@ -14,9 +14,9 @@ This script also uses the imagemagick package, which by default is already insta
 
 ## Usage
 After you have the fish shell installed as described above, download the shell script in this repo. Navigate to the directory where the shell script is located, and open a command-line terminal.
-At the prompt, type fish
-Now you are in the fish shell. If the downloaded shell script is not already executable, make it so (chmod u+x createimages.fish )
-Execute the downloaded script ( ./createimages.fish )
+At the prompt, type `fish`
+Now you are in the fish shell. If the downloaded shell script is not already executable, make it so `chmod u+x createimages.fish`
+Execute the downloaded script ` ./createimages.fish `
 
 You will be prompted for the number of images desired, their x dimensions, y dimensions, and a base filename. The images will then be created as JPEGs.
 
