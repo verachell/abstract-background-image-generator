@@ -1,10 +1,10 @@
 # abstract-background-image-generator
 Generates abstract images of user-defined dimensions. Installation instructions and example images shown.
 
-This is a shell script that works on Linux systems.
+This is a shell script for Linux systems.
 
 ## Installation
-This shell script uses the fish shell v 3.0.2. The script will not work with bash or any other shell, or with previous versions of fish (the latter is due to the usage of the 'random' function). The fish shell is easy to install and works out of the box. 
+This shell script uses the fish shell v 3.0.2. The script will not work with bash or any other shell, or with previous versions of fish (the latter is due to the usage of the `random` function). The fish shell is easy to install and works out of the box. 
 - For Debian-based Linux systems such as Ubuntu, you can install fish via the synaptic package manager. 
 - For other distros, see [fish shell](https://fishshell.com/) for installation; fish is available for virtually all distros.
 
